@@ -1,7 +1,7 @@
 const participantes = [
   {
     nombre: "",
-    aciertos: 0,
+    aciertos: 1,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/ferran.png"
