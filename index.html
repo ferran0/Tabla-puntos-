@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tabla de Participantes</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Tabla de Participantes - Quiniela</h1>
+  <table id="tabla-participantes">
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Nombre del Participante</th>
+        <th>Puntos Totales</th>
+        <th>Aciertos</th>
+        <th>Aciertos de Goles</th>
+        <th>Captura</th>
+      </tr>
+    </thead>
+    <tbody id="cuerpo-tabla"></tbody>
+  </table>
+
+  <!-- Modal -->
+  <div id="modal">
+    <div id="modal-content">
+      <img id="imagen-modal" src="" alt="Captura de quiniela">
+      <button id="cerrar-modal">Cerrar</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
