@@ -1,1 +1,1 @@
-# Tabla-puntos-
+# Tabla-puntos
