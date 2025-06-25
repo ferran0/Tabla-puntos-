@@ -1,27 +1,27 @@
 const participantes = [
   {
-    nombre: "Fernando Cáno",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/ferran.png"
   },
   {
-    nombre: "Roberto Cáno",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/andrea.png"
   },
   {
-    nombre: "Jorge Cáno",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/kevin.png"
   }, 
   {
-    nombre: "Tom Cáno",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
@@ -29,28 +29,28 @@ const participantes = [
    }, 
 
    {
-    nombre: "Luis Cáno",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/ferran.png"
   },
   {
-    nombre: "Selvin Godoy",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/andrea.png"
   },
   {
-    nombre: "Angel de León",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/kevin.png"
   }, 
   {
-    nombre: "Mayki Felipe",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
@@ -58,28 +58,28 @@ const participantes = [
    }, 
    
   {
-    nombre: "Eldin Felipe",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/ferran.png"
   },
   {
-    nombre: "Juana Leticia",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/andrea.png"
   },
   {
-    nombre: "Ana Morales",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/kevin.png"
   }, 
   {
-    nombre: "Hugo Daniel",
+    nombre: "",
     aciertos: 0,
     aciertosGoles: 0,
     campeon: false,
