@@ -22,7 +22,7 @@ const participantes = [
   }, 
   {
     nombre: "Ana Cano",
-    aciertos: 0,
+    aciertos: 1,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/ana.png"
@@ -37,7 +37,7 @@ const participantes = [
   },
   {
     nombre: "Luis Cano",
-    aciertos: 0,
+    aciertos: 1,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/chuga.png"
@@ -73,14 +73,14 @@ const participantes = [
   },
   {
     nombre: "Selvin Godoy",
-    aciertos: 0,
+    aciertos: 1,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/chevere.png"
   }, 
   {
     nombre: "Esnayder Felipe",
-    aciertos: 0,
+    aciertos: 1,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/mayki.png"
