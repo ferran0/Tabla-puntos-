@@ -84,7 +84,43 @@ const participantes = [
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/kevin.png"
-   }
+   },
+    {
+    nombre: "",
+    aciertos: 0,
+    aciertosGoles: 0,
+    campeon: false,
+    imagen: "capturas/kevin.png"
+   }, 
+   
+  {
+    nombre: "",
+    aciertos: 0,
+    aciertosGoles: 0,
+    campeon: false,
+    imagen: "capturas/ferran.png"
+  },
+  {
+    nombre: "",
+    aciertos: 0,
+    aciertosGoles: 0,
+    campeon: false,
+    imagen: "capturas/andrea.png"
+  },
+  {
+    nombre: "",
+    aciertos: 0,
+    aciertosGoles: 0,
+    campeon: false,
+    imagen: "capturas/kevin.png"
+  }, 
+  {
+    nombre: "",
+    aciertos: 0,
+    aciertosGoles: 0,
+    campeon: false,
+    imagen: "capturas/kevin.png"
+  }
   // Agregá más aquí...
 ];
 
