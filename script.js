@@ -1,51 +1,51 @@
 const participantes = [
   {
     nombre: "Angel de León",
-    aciertos: 3,
+    aciertos: 4,
     aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/angel.png"
   },
   {
     nombre: "Dublas David",
-    aciertos: 4,
-    aciertosGoles: 0,
+    aciertos: 5,
+    aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/paris.png"
   },
   {
     nombre: "Fernando Cano",
-    aciertos: 3,
-    aciertosGoles: 0,
+    aciertos: 4,
+    aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/nando.png"
   }, 
   {
     nombre: "Ana Cano",
-    aciertos: 5,
-    aciertosGoles: 1,
+    aciertos: 6,
+    aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/ana.png"
    }, 
 
    {
     nombre: "Juana Cano",
-    aciertos: 4,
+    aciertos: 5,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/juana.png"
   },
   {
     nombre: "Luis Cano",
-    aciertos: 5,
-    aciertosGoles: 0,
+    aciertos: 6,
+    aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/chuga.png"
   },
   {
     nombre: "Tony Cano",
-    aciertos: 4,
-    aciertosGoles: 1,
+    aciertos: 5,
+    aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/tom.png"
   }, 
@@ -59,15 +59,15 @@ const participantes = [
    
   {
     nombre: "Daniel Gómez",
-    aciertos: 3,
+    aciertos: 4,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/chiri.png"
   },
   {
     nombre: "Robert Can",
-    aciertos: 3,
-    aciertosGoles: 1,
+    aciertos: 4,
+    aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/bush.png"
   },
@@ -80,14 +80,14 @@ const participantes = [
   }, 
   {
     nombre: "Esnayder Felipe",
-    aciertos: 4,
-    aciertosGoles: 1,
+    aciertos: 5,
+    aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/mayki.png"
    },
     {
     nombre: "Elwin Aquino",
-    aciertos: 3,
+    aciertos: 4,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/aquino.png"
@@ -95,43 +95,43 @@ const participantes = [
    
   {
     nombre: "Eldin Felipe",
-    aciertos: 3,
+    aciertos: 4,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/eldin.png"
   },
   {
     nombre: "Augusto Cano",
-    aciertos: 4,
+    aciertos: 5,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/augusto.png"
   },
   {
     nombre: "Alan Felipe",
-    aciertos: 4,
-    aciertosGoles: 0,
+    aciertos: 5,
+    aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/lallo.png"
   }, 
   {
     nombre: "Tifón",
-    aciertos: 2,
+    aciertos: 3,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/tifon.png"
   },
   {
     nombre: "Jarvin Martínez",
-    aciertos: 4,
+    aciertos: 5,
     aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/migue.png"
   }, 
   {
     nombre: "Jorge Cano",
-    aciertos: 3,
-    aciertosGoles: 1,
+    aciertos: 4,
+    aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/pollo.png"
   }
