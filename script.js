@@ -8,7 +8,7 @@ const participantes = [
   },
   {
     nombre: "Dublas David",
-    aciertos: 5,
+    aciertos: 6,
     aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/paris.png"
@@ -22,30 +22,30 @@ const participantes = [
   }, 
   {
     nombre: "Ana Cano",
-    aciertos: 6,
-    aciertosGoles: 2,
+    aciertos: 7,
+    aciertosGoles: 3,
     campeon: false,
     imagen: "capturas/ana.png"
    }, 
 
    {
     nombre: "Juana Cano",
-    aciertos: 5,
+    aciertos: 6,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/juana.png"
   },
   {
     nombre: "Luis Cano",
-    aciertos: 6,
-    aciertosGoles: 1,
+    aciertos: 7,
+    aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/chuga.png"
   },
   {
     nombre: "Tony Cano",
-    aciertos: 5,
-    aciertosGoles: 2,
+    aciertos: 6,
+    aciertosGoles: 3,
     campeon: false,
     imagen: "capturas/tom.png"
   }, 
@@ -73,8 +73,8 @@ const participantes = [
   },
   {
     nombre: "Selvin Godoy",
-    aciertos: 5,
-    aciertosGoles: 0,
+    aciertos: 6,
+    aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/chevere.png"
   }, 
@@ -109,8 +109,8 @@ const participantes = [
   },
   {
     nombre: "Alan Felipe",
-    aciertos: 5,
-    aciertosGoles: 1,
+    aciertos: 6,
+    aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/lallo.png"
   }, 
@@ -123,7 +123,7 @@ const participantes = [
   },
   {
     nombre: "Jarvin Martínez",
-    aciertos: 5,
+    aciertos: 6,
     aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/migue.png"
