@@ -1,22 +1,22 @@
 const participantes = [
   {
     nombre: "Angel de León",
-    aciertos: 4,
+    aciertos: 5,
     aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/angel.png"
   },
   {
     nombre: "Dublas David",
-    aciertos: 6,
+    aciertos: 7,
     aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/paris.png"
   },
   {
     nombre: "Fernando Cano",
-    aciertos: 4,
-    aciertosGoles: 1,
+    aciertos: 5,
+    aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/nando.png"
   }, 
@@ -37,21 +37,21 @@ const participantes = [
   },
   {
     nombre: "Luis Cano",
-    aciertos: 7,
+    aciertos: 8,
     aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/chuga.png"
   },
   {
     nombre: "Tony Cano",
-    aciertos: 6,
+    aciertos: 7,
     aciertosGoles: 3,
     campeon: false,
     imagen: "capturas/tom.png"
   }, 
   {
     nombre: "Hugo Cano",
-    aciertos: 4,
+    aciertos: 5,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/pacha.png"
@@ -59,7 +59,7 @@ const participantes = [
    
   {
     nombre: "Daniel Gómez",
-    aciertos: 4,
+    aciertos: 5,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/chiri.png"
@@ -73,21 +73,21 @@ const participantes = [
   },
   {
     nombre: "Selvin Godoy",
-    aciertos: 6,
-    aciertosGoles: 1,
+    aciertos: 7,
+    aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/chevere.png"
   }, 
   {
     nombre: "Esnayder Felipe",
-    aciertos: 5,
+    aciertos: 6,
     aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/mayki.png"
    },
     {
     nombre: "Elwin Aquino",
-    aciertos: 4,
+    aciertos: 5,
     aciertosGoles: 0,
     campeon: false,
     imagen: "capturas/aquino.png"
@@ -109,7 +109,7 @@ const participantes = [
   },
   {
     nombre: "Alan Felipe",
-    aciertos: 6,
+    aciertos: 7,
     aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/lallo.png"
@@ -123,14 +123,14 @@ const participantes = [
   },
   {
     nombre: "Jarvin Martínez",
-    aciertos: 6,
-    aciertosGoles: 1,
+    aciertos: 7,
+    aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/migue.png"
   }, 
   {
     nombre: "Jorge Cano",
-    aciertos: 4,
+    aciertos: 5,
     aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/pollo.png"
