@@ -30,8 +30,8 @@ const participantes = [
 
    {
     nombre: "Juana Cano",
-    aciertos: 7,
-    aciertosGoles: 1,
+    aciertos: 8,
+    aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/juana.png"
   },
