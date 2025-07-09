@@ -51,7 +51,7 @@ const participantes = [
   }, 
   {
     nombre: "Hugo Cano",
-    aciertos: 6,
+    aciertos: 7,
     aciertosGoles: 1,
     campeon: false,
     imagen: "capturas/pacha.png"
@@ -73,7 +73,7 @@ const participantes = [
   },
   {
     nombre: "Selvin Godoy",
-    aciertos: 8,
+    aciertos: 9,
     aciertosGoles: 2,
     campeon: false,
     imagen: "capturas/chevere.png"
